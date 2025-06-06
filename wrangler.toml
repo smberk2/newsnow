@@ -2,15 +2,9 @@ name = "newsnow"
 pages_build_output_dir = "dist/output/public"
 compatibility_date = "2024-10-03"
 
-# Github Clien ID
+
 G_CLIENT_ID=Ov23likNqIzfvqw5M767
-# Github Clien Secret
-#G_CLIENT_SECRET=
-# JWT Secret, 通常就用 Clien Secret
-#JWT_SECRET=
-# 初始化数据库, 首次运行必须设置为 true，之后可以将其关闭
 INIT_TABLE=true
-# 是否启用缓存
 ENABLE_CACHE=true
 
 [[d1_databases]]
