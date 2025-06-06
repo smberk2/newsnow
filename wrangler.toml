@@ -2,11 +2,6 @@ name = "newsnow"
 pages_build_output_dir = "dist/output/public"
 compatibility_date = "2024-10-03"
 
-
-G_CLIENT_ID=Ov23likNqIzfvqw5M767
-INIT_TABLE=true
-ENABLE_CACHE=true
-
 [[d1_databases]]
 binding = "NEWSNOW_DB"
 database_name = "newsnow_data"
